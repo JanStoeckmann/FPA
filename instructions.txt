@@ -1,0 +1,8 @@
+>>>python noise.py *img* *noise type*
+noise types: gauss, poisson
+
+>>>python filter.py *img* *filter type*
+filter types: gauss, median, bilinear
+
+>>>python psnr.py *img1* *img2*
+ 
